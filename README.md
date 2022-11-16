@@ -37,11 +37,12 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
+
  https://kapten-son.com/nl?gclid=CjwKCAiAjs2bBhACEiwALTBWZW6o8X-s1XS5_h0GgykcIy_SZSLpiKyv5BElZCeE1tNR08y3P9kQsxoC5VwQAvD_BwE
 
   #### Screenshot(s) van de eerste pagina (small screen): 
   Home pagina
-  <img src="./images/home.jpg" width="375px" alt="home pagina">
+  <img src="readme-home.jpg" width="375px" alt="breakdown van de hele pagina">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   Menu pagina 
