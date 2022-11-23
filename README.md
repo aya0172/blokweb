@@ -118,13 +118,19 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 
   ### Agenda voor meeting
   samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
+  
+  student 1: Marc
+  Algemeen, Hamburger menu, Github (vullen we het goed in, zoals website link).
+  
+  student 2: Robin
+  Is mijn HTML goed uitgewerkt? Of wat mist er nog of kan beter.
+  Kun je grid, flexbox en position door elkaar gebruiken?
+  
+  student 3: Aya
+  Eigen website: hoe zijn hier de h'tjes verdeeld (h1, h2, etc.)?
+  
+  student 4: Mats
+  "een plan opstellen ivm huiswerk"
 
   ### Verslag van meeting
   hier na afloop snel de uitkomsten van de meeting vastleggen
